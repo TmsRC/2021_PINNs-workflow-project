@@ -1,4 +1,14 @@
-# Esquema de trabajo para utilización de PINNs orientado a la solución del lid-driven cavity flow
+# Workflow scheme for the usage of PINNs for fluid simulations
+
+This repository exemplifies the calculations performed for the dissertation project
+
+Rubio, T. (2022). *Execution of an ab-initio workflow for the development of PINN neural networks oriented to solving 2D stationary Navier-Stokes problems*. Bachelor’s thesis, Universidad de los Andes. Available: [https://repositorio.uniandes.edu.co]{https://repositorio.uniandes.edu.co/handle/1992/55717}.
+
+**This repository is flagged for a deep revamp. It will receive some updates as well as old files which were omitted from upload originally**
+
+# Spanish
+
+## Esquema de trabajo para utilización de PINNs orientado a la solución del lid-driven cavity flow
 
 Los archivos aquí contenidos corresponden a los cálculos realizados para el proyecto de monografía:
 
